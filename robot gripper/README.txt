@@ -8,4 +8,4 @@ MATLAB – wykonano obliczenia niezbędne do doboru siłownika oraz analizy wytr
 Siemens NX – wykonano projekty poszczególnych części oraz złożenie całego chwytaka.
 
 
-Sprawozdanie zawiera m.in. listę wszystkich potrzebnych części oraz całościową analizę (np. obliczenia wytrzymałościowe), która była potrzebna do wykonania projektu. Został też załączony plik do MATLABa ze wszystkim niezbędnymi obliczeniami. W ramach projektu wykonano też rysunek złożeniowy oraz rysunki techniczne dwóch wybranych części. Pełny model złożenia chwytaka można zobaczyć w pliku assembly1.prt.
+Sprawozdanie zawiera m.in. listę wszystkich potrzebnych części oraz całościową analizę (np. obliczenia wytrzymałościowe), która była potrzebna do wykonania projektu. Został też załączony plik do MATLABa ze wszystkim niezbędnymi obliczeniami. W ramach projektu wykonano też rysunek złożeniowy oraz rysunki techniczne dwóch wybranych części. Pełny model złożenia chwytaka można zobaczyć w pliku assembly1.prt. Plik szkic.prt służył, natomiast, graficznemu wyznaczeniu siły, jaką miał generować siłownik.
